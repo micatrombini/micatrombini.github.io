@@ -1,0 +1,15 @@
+  html {
+    font-family: "Lucida Sans", sans-serif;
+  }
+
+  .header {
+    background-color: black;
+    color: white;
+    padding-left: 70;
+    text-align: center;
+  }
+
+  h1{font-size: 36px}
+  h2{font-size: 15px}
+  
+  
